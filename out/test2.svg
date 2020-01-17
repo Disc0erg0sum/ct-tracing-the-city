@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" 
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" width="2000" height="2000" viewBox="0 0 2000 2000">
+	<g transform="scale(1,1)">
+		<g>
+			<g transform="translate(1000,1000)">
+				<path fill="rgb(0,0,0)" stroke="#000000" paint-order="fill stroke markers" d=" M -10 0 C -10 -5.522847498 -5.522847498 -10 0 -10 C 5.522847498 -10 10 -5.522847498 10 0 C 10 5.522847498 5.522847498 10 0 10 C -5.522847498 10 -10 5.522847498 -10 0 Z" fill-opacity="1" stroke-linecap="round" stroke-miterlimit="10"></path>
+				<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M -20 0 C -20 -11.045694996 -11.045694996 -20 0 -20 C 11.045694996 -20 20 -11.045694996 20 0 C 20 11.045694996 11.045694996 20 0 20 C -11.045694996 20 -20 11.045694996 -20 0 Z" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"></path>
+				<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M -30 0 C -30 -16.568542494 -16.568542494 -30 0 -30 C 16.568542494 -30 30 -16.568542494 30 0 C 30 16.568542494 16.568542494 30 0 30 C -16.568542494 30 -30 16.568542494 -30 0 Z" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"></path>
+				<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M -40 0 C -40 -22.091389992 -22.091389992 -40 0 -40 C 22.091389992 -40 40 -22.091389992 40 0 C 40 22.091389992 22.091389992 40 0 40 C -22.091389992 40 -40 22.091389992 -40 0 Z" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"></path>
+				<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M -550 0 C -550 -303.75661239 -303.75661239 -550 0 -550 C 303.75661239 -550 550 -303.75661239 550 0 C 550 303.75661239 303.75661239 550 0 550 C -303.75661239 550 -550 303.75661239 -550 0 Z" stroke-linecap="round" stroke-miterlimit="10"></path>
+				<g transform="rotate(0,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 500" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(0.8053691275167785,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 463" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(1.610738255033557,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 483.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(2.4161073825503356,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 466" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(3.221476510067114,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 476" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(4.026845637583892,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 485" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(4.832214765100671,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(5.6375838926174495,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 480" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(6.442953020134228,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 472.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(7.248322147651006,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 492.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(8.053691275167784,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(8.859060402684563,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 451.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(9.664429530201343,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 462" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(10.469798657718123,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 466" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(11.275167785234899,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 484" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(12.080536912751679,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 473" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(12.885906040268456,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 486.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(13.691275167785232,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 481.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(14.496644295302012,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 482.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(15.30201342281879,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 444" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(16.10738255033557,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 490" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(16.91275167785235,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 477" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(17.718120805369125,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 491.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(18.523489932885905,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 478" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(19.328859060402685,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 443" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(20.13422818791946,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 456.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(20.939597315436245,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 479.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(21.744966442953018,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 426.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(22.550335570469798,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 480.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(23.355704697986575,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 455" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(24.161073825503358,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 449.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(24.96644295302013,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 422" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(25.77181208053691,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 415.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(26.57718120805369,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 407.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(27.382550335570464,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 461" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(28.18791946308725,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 469" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(28.993288590604024,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 492.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(29.798657718120804,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 491.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(30.60402684563758,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 462" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(31.409395973154357,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 476.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(32.21476510067114,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 485" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(33.02013422818792,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 410.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(33.8255033557047,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 412" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(34.630872483221474,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 356.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(35.43624161073825,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 392.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(36.24161073825504,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 429.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(37.04697986577181,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 479" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(37.85234899328859,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 477" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(38.65771812080537,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 467" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(39.46308724832215,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 484.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(40.26845637583892,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 478" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(41.0738255033557,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 442.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(41.87919463087249,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 407" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(42.68456375838926,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 476.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(43.489932885906036,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 454.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(44.29530201342281,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 475.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(45.100671140939596,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(45.90604026845637,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 484.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(46.71140939597315,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 459.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(47.51677852348993,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 444" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(48.322147651006716,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 361.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(49.127516778523486,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 490" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(49.93288590604026,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 466" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(50.738255033557046,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 413" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(51.54362416107382,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 449.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(52.3489932885906,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 452" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(53.15436241610738,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 410" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(53.95973154362416,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 389.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(54.76510067114093,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 439" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(55.57046979865772,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 60.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(56.3758389261745,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 53.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(57.18120805369127,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 418.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(57.98657718120805,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 427" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(58.79194630872483,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 344" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(59.59731543624161,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 335" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(60.402684563758385,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 145" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(61.20805369127516,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 297.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(62.013422818791945,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 340" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(62.818791946308714,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 225.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(63.6241610738255,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 377" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(64.42953020134227,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 468.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(65.23489932885906,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 417" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(66.04026845637584,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 451.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(66.8456375838926,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 483" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(67.6510067114094,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 449" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(68.45637583892616,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 456" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(69.26174496644295,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 480.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(70.06711409395973,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 442.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(70.8724832214765,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 412" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(71.67785234899328,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 323.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(72.48322147651008,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 426" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(73.28859060402685,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 445" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(74.09395973154362,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 485.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(74.8993288590604,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 495" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(75.70469798657717,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 500" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(76.51006711409394,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 489.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(77.31543624161074,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(78.12080536912751,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 446.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(78.9261744966443,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 448.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(79.73154362416108,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 469.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(80.53691275167785,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 473" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(81.34228187919463,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 458.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(82.1476510067114,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 494" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(82.95302013422818,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 494.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(83.75838926174498,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 459.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(84.56375838926174,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 476.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(85.36912751677852,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 487.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(86.1744966442953,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 476.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(86.97986577181207,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 365" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(87.78523489932884,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 461.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(88.59060402684563,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 459.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(89.39597315436242,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 470.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(90.20134228187919,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 493.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(91.00671140939596,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 464" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(91.81208053691275,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 461.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(92.61744966442953,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 329" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(93.4228187919463,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 329" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(94.22818791946308,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 479.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(95.03355704697987,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 475" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(95.83892617449663,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(96.64429530201343,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 373.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(97.4496644295302,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 401" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(98.25503355704697,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 460" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(99.06040268456375,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 486" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(99.86577181208052,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(100.67114093959731,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 492.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(101.47651006711409,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 482.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(102.28187919463085,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 443" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(103.08724832214764,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 491.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(103.89261744966441,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 490" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(104.6979865771812,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 488.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(105.50335570469798,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 497" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(106.30872483221476,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 494" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(107.11409395973153,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 487" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(107.91946308724832,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(108.72483221476509,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 498" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(109.53020134228186,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 500" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(110.33557046979865,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(111.14093959731544,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 494" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(111.9463087248322,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 389" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(112.751677852349,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 481.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(113.55704697986576,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 489" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(114.36241610738254,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 493.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(115.1677852348993,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 488.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(115.9731543624161,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 460" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(116.77852348993288,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 393.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(117.58389261744966,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 474" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(118.38926174496645,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 484.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(119.19463087248322,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 476.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(119.99999999999999,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 496.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(120.80536912751677,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 486.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(121.61073825503355,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 481.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(122.41610738255032,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 495.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(123.2214765100671,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 500" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(124.02684563758389,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 500" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(124.83221476510067,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 448.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(125.63758389261743,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 498" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(126.44295302013423,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 482" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(127.248322147651,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 500" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(128.0536912751678,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 500" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(128.85906040268455,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 460.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(129.66442953020135,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 478.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(130.46979865771812,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 472" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(131.27516778523488,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 257.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(132.08053691275168,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 344" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(132.88590604026845,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 500" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(133.6912751677852,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 466.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(134.496644295302,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 413" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(135.3020134228188,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 295.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(136.10738255033556,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 430.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(136.91275167785233,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 424" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(137.71812080536913,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 493.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(138.5234899328859,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 425" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(139.32885906040266,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 492.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(140.13422818791946,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 443.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(140.93959731543626,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(141.744966442953,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 470.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(142.5503355704698,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 481.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(143.35570469798657,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 418.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(144.16107382550334,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 281.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(144.96644295302016,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 440" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(145.7718120805369,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 435" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(146.5771812080537,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 436" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(147.38255033557047,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 466.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(148.18791946308724,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 323.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(148.993288590604,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 311" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(149.7986577181208,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 463.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(150.60402684563758,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 454.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(151.40939597315435,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 444" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(152.21476510067114,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 486" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(153.02013422818789,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 487" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(153.82550335570468,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 418.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(154.63087248322148,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 469.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(155.43624161073825,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 470.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(156.24161073825502,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 382.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(157.0469798657718,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 491" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(157.8523489932886,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 460.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(158.65771812080536,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 367.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(159.46308724832215,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 414.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(160.26845637583892,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 317.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(161.0738255033557,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 396" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(161.87919463087246,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 406.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(162.68456375838926,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 403.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(163.48993288590603,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 486" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(164.2953020134228,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 497.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(165.1006711409396,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 498.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(165.90604026845637,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 496" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(166.7114093959731,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 491" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(167.51677852348996,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 474" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(168.3221476510067,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 473" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(169.12751677852347,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 495.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(169.93288590604024,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 491.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(170.73825503355704,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(171.5436241610738,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 451.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(172.3489932885906,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 478.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(173.1543624161074,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 466" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(173.95973154362414,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 493.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(174.76510067114094,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 441" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(175.57046979865768,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 394.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(176.37583892617448,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 434.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(177.18120805369125,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 451.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(177.98657718120805,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 457" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(178.79194630872485,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 459" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(179.5973154362416,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 441.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(180.40268456375838,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 435.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(181.20805369127513,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 463.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(182.01342281879192,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 474" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(182.81879194630872,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 451.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(183.6241610738255,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 469" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(184.4295302013423,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 492" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(185.23489932885906,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 346.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(186.04026845637583,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 417.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(186.8456375838926,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 493" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(187.65100671140942,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 469.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(188.45637583892616,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 404" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(189.26174496644293,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 397.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(190.06711409395973,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 428.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(190.8724832214765,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 406.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(191.67785234899327,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 438" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(192.48322147651007,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 441.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(193.28859060402687,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 474" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(194.0939597315436,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 430.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(194.8993288590604,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 418.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(195.70469798657717,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 453.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(196.51006711409394,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 500" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(197.3154362416107,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 434.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(198.1208053691275,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 465.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(198.9261744966443,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 427.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(199.73154362416105,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(200.53691275167785,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 489.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(201.34228187919462,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 479" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(202.14765100671138,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 462.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(202.95302013422818,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 493.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(203.75838926174495,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 489.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(204.5637583892617,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 474" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(205.36912751677852,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 413.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(206.1744966442953,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 489" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(206.97986577181206,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 485.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(207.78523489932883,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 446.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(208.59060402684563,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 458" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(209.3959731543624,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 440.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(210.2013422818792,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 488" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(211.00671140939596,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 491.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(211.81208053691273,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 460" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(212.61744966442953,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 436" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(213.42281879194627,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 443.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(214.22818791946307,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 444.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(215.03355704697987,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 419" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(215.83892617449663,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 459" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(216.6442953020134,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 367" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(217.44966442953017,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 442" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(218.25503355704697,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 461" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(219.0604026845637,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 451" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(219.8657718120805,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 435.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(220.6711409395973,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 480.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(221.47651006711408,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 418.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(222.28187919463087,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 422" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(223.08724832214764,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 435" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(223.8926174496644,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 435.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(224.69798657718115,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 475" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(225.503355704698,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 489" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(226.30872483221475,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 474" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(227.11409395973152,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 485.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(227.91946308724832,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 438" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(228.7248322147651,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 477" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(229.53020134228186,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 486.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(230.3355704697986,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 493.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(231.14093959731545,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 490" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(231.9463087248322,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 496" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(232.751677852349,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 485" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(233.55704697986576,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 475.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(234.3624161073826,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 466" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(235.16778523489933,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 463" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(235.9731543624161,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 373.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(236.7785234899329,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 437" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(237.58389261744964,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 411.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(238.38926174496643,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 479" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(239.19463087248315,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 478.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(239.99999999999997,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 394" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(240.80536912751674,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 473" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(241.61073825503354,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 294" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(242.41610738255034,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 348.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(243.2214765100671,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 421.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(244.02684563758388,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 432" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(244.83221476510064,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 448" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(245.63758389261739,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 360.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(246.4429530201342,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 401.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(247.24832214765098,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 420" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(248.05369127516778,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 443" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(248.85906040268455,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 462.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(249.66442953020135,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 464" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(250.46979865771812,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 387" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(251.27516778523486,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 421.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(252.08053691275163,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 406.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(252.88590604026845,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 457.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(253.69127516778522,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 415.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(254.496644295302,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 413.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(255.3020134228188,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 383.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(256.1073825503356,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 480.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(256.9127516778523,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 437.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(257.7181208053691,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 434.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(258.5234899328859,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 490.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(259.3288590604027,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 487" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(260.13422818791946,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 68.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(260.93959731543623,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 459" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(261.744966442953,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 405" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(262.55033557046977,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 403.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(263.35570469798654,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 469.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(264.16107382550337,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 473" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(264.96644295302013,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 446.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(265.7718120805369,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 319.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(266.57718120805373,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 453.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(267.3825503355704,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 476" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(268.1879194630872,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 459.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(268.993288590604,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 358" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(269.7986577181208,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 259" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(270.6040268456376,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 410" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(271.40939597315435,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 322.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(272.2147651006711,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 451" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(273.0201342281879,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 424.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(273.82550335570465,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 416" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(274.6308724832215,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 402.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(275.43624161073825,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 393" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(276.241610738255,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 359" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(277.0469798657718,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 320" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(277.85234899328856,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 477.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(278.6577181208053,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 224" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(279.4630872483222,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 389" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(280.2684563758389,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 456.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(281.0738255033557,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 268" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(281.8791946308725,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 480" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(282.6845637583892,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 426" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(283.489932885906,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 469" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(284.2953020134228,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 464.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(285.1006711409396,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 236.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(285.90604026845637,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 428" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(286.71140939597313,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 487" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(287.5167785234899,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 362" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(288.3221476510067,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 325" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(289.12751677852344,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 395" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(289.9328859060403,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 471" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(290.738255033557,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 435.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(291.5436241610738,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 454.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(292.3489932885906,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 337.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(293.1543624161074,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 481.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(293.9597315436241,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 497.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(294.76510067114094,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 476" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(295.5704697986577,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 352" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(296.3758389261745,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 462" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(297.18120805369125,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 466" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(297.986577181208,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 492" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(298.7919463087248,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 499" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(299.5973154362416,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 484" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(300.4026845637584,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 445.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(301.20805369127515,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 464" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(302.0134228187919,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 389" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(302.8187919463087,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 436.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(303.6241610738255,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 380" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(304.4295302013423,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 417.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(305.2348993288591,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 409.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(306.04026845637577,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 434" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(306.8456375838926,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 404" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(307.65100671140937,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 291.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(308.45637583892614,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 445" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(309.26174496644296,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 395.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(310.06711409395973,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 318" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(310.8724832214765,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 156.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(311.67785234899327,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 308" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(312.48322147651004,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 444" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(313.2885906040268,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 487.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(314.0939597315436,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 472.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(314.8993288590604,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 482.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(315.7046979865772,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 489.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(316.510067114094,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 470.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(317.3154362416107,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 481" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(318.1208053691275,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 408.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(318.9261744966443,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 452" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(319.7315436241611,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 445" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(320.53691275167785,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 486.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(321.3422818791946,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 477" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(322.1476510067114,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 408" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(322.95302013422815,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 338.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(323.7583892617449,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 276.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(324.56375838926175,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 238" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(325.3691275167785,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 271" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(326.1744966442953,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 476" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(326.97986577181206,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 268" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(327.78523489932877,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 456.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(328.5906040268456,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 388.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(329.3959731543625,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 434" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(330.2013422818792,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 451" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(331.00671140939596,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 340" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(331.81208053691273,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 275" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(332.6174496644295,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 250" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(333.4228187919462,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 472" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(334.22818791946304,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 420.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(335.0335570469799,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 439" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(335.83892617449663,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 475" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(336.6442953020134,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 487.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(337.4496644295302,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 478" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(338.25503355704694,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 456" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(339.06040268456366,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 481.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(339.8657718120805,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 482" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(340.67114093959736,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 395" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(341.4765100671141,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 468.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(342.28187919463085,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 490" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(343.0872483221476,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 442" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(343.8926174496644,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 411" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(344.6979865771812,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 485" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(345.5033557046979,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 481.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(346.3087248322148,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 391" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(347.1140939597315,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 458" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(347.9194630872483,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 407.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(348.72483221476506,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 427" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(349.5302013422819,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 436" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(350.33557046979865,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 473.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(351.14093959731537,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 447.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(351.94630872483225,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 460" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(352.75167785234896,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 412" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(353.55704697986573,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 429" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(354.3624161073825,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 438" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(355.1677852348993,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 429" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(355.9731543624161,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 397.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(356.7785234899328,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 457.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(357.5838926174497,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 462.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(358.3892617449664,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 479.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+				<g transform="rotate(359.1946308724832,0,0) translate(0,50)">
+					<path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0 0 L 0 416.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
